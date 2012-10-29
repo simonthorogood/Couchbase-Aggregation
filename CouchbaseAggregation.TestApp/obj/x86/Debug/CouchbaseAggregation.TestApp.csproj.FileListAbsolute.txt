@@ -1,0 +1,13 @@
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\CouchbaseAggregation.TestApp.exe.config
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\CouchbaseAggregation.TestApp.exe
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\CouchbaseAggregation.TestApp.pdb
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\Couchbase.dll
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\Enyim.Caching.dll
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\Couchbase.xml
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\Enyim.Caching.xml
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\obj\x86\Debug\CouchbaseAggregation.TestApp.exe
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\obj\x86\Debug\CouchbaseAggregation.TestApp.pdb
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\Newtonsoft.Json.dll
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\Newtonsoft.Json.xml
+F:\Prototypes\Couchbase Aggregation\CouchbaseAggregation.TestApp\bin\Debug\Hammock.dll
